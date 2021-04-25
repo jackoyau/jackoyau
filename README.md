@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jackoyau
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning web development and programming
+- 📫 How to reach me ... jackoyau555@gmail.com
